@@ -26,7 +26,10 @@ GO
 
 --Create Database 'DataWareHouse'
 CREATE DATABASE DataWareHouse;
+GO
+	
 USE DataWareHouse;
+GO
 
 --Create Schemas
 CREATE SCHEMA bronze;
